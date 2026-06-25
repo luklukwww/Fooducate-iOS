@@ -38,23 +38,19 @@ Fooducate is an AI-powered recipe discovery and cooking assistant developed as a
 
 ## Screenshots
 
-The screenshots below demonstrate the main app flow, including recipe discovery, recipe details, cooking mode, and user profile management.
+The screenshots below demonstrate the main app flow, including recipe discovery, recipe details, cooking mode, nutrition tools, and user profile management.
 
-| Home                                                | Recipe Detail                                                | Recipe Overview                                                |
-| --------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
-| <img src="assets/screenshots/home.png" width="220"> | <img src="assets/screenshots/recipe-detail.png" width="220"> | <img src="assets/screenshots/recipe-detail-2.png" width="220"> |
+| Home | Recipe Detail | Recipe Overview |
+| --- | --- | --- |
+| <img src="assets/screenshots/home.png" width="200"> | <img src="assets/screenshots/recipe-detail.png" width="200"> | <img src="assets/screenshots/recipe-detail-2.png" width="200"> |
 
-| Start Cooking                                                | Profile                                                |
-| ------------------------------------------------------------ | ------------------------------------------------------ |
-| <img src="assets/screenshots/start-cooking.png" width="220"> | <img src="assets/screenshots/profile.png" width="220"> |
+| Start Cooking | Profile | Nutrition Calculator |
+| --- | --- | --- |
+| <img src="assets/screenshots/start-cooking.png" width="200"> | <img src="assets/screenshots/profile.png" width="200"> | <img src="assets/screenshots/nutrition-calculator.png" width="200"> |
 
-| Nutrition Calculator                                                | Manage Recipes Admin                                                |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <img src="assets/screenshots/nutrition-calculator.png" width="220"> | <img src="assets/screenshots/manage-recipes-admin.png" width="220"> |
-
-| Flavour Mirror                                                | Allergies                                                |
-| ------------------------------------------------------------- | -------------------------------------------------------- |
-| <img src="assets/screenshots/flavour-mirror.png" width="220"> | <img src="assets/screenshots/allergies.png" width="220"> |
+| Manage Recipes Admin | Flavour Mirror | Allergies |
+| --- | --- | --- |
+| <img src="assets/screenshots/manage-recipes-admin.png" width="200"> | <img src="assets/screenshots/flavour-mirror.png" width="200"> | <img src="assets/screenshots/allergies.png" width="200"> |
 
 
 ## Setup
