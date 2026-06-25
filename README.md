@@ -48,6 +48,15 @@ The screenshots below demonstrate the main app flow, including recipe discovery,
 | ------------------------------------------------------------ | ------------------------------------------------------ |
 | <img src="assets/screenshots/start-cooking.png" width="220"> | <img src="assets/screenshots/profile.png" width="220"> |
 
+| Nutrition Calculator                                                | Manage Recipes Admin                                                |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| <img src="assets/screenshots/nutrition-calculator.png" width="220"> | <img src="assets/screenshots/manage-recipes-admin.png" width="220"> |
+
+| Flavour Mirror                                                | Allergies                                                |
+| ------------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="assets/screenshots/flavour-mirror.png" width="220"> | <img src="assets/screenshots/allergies.png" width="220"> |
+
+
 ## Setup
 
 1. Open the project in Xcode.
